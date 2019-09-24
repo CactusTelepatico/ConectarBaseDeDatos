@@ -1,0 +1,4 @@
+bd = "juegos"
+login = "root"
+pwd = ""
+url = "jdbc:mysql://localhost/" + bd + "?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC"
